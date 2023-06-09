@@ -3,10 +3,10 @@ probabilidade de um cliente, ou um conjunto de clientes, deixarem o banco, o que
 
 O projeto consiste em três macro-etapas:
 
-* Análise exploratória dos dados, com extração de insights valiosos que podem serutilizados pelo time de negócios;
-* Pré processamento dos dados, com codificação de variáveis catgóricas, balanceamento do dataframe e padronização dos dados;
+* Análise exploratória dos dados, com extração de insights valiosos que podem ser utilizados pelo time de negócios;
+* Pré processamento dos dados, com codificação de variáveis categóricas, balanceamento do dataframe e padronização dos dados;
 * Modelagem de máquina preditiva, com análise de desempenho e otimização do algoritmo, de forma a obter um modelo
-  final passível de ser implementado em produção (deploy do modelo).
+  final que possa ser implementado em produção (deploy do modelo).
 
 Foram escolhidos os seguintes classificadores para a modelagem da máquina preditiva:
 * Regressão Logística
