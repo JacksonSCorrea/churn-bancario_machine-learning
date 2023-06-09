@@ -14,5 +14,5 @@ Foram escolhidos os seguintes classificadores para a modelagem da máquina predi
 * XGBoost
 
 A métrica principal para avaliação do desempenho dos modelos é o Recall (Revocação), pois a pretensão é de que se reduza ao
-máximo a classificação de Falsos Negativos, ou seja, é preterível que um cliente que não tenha a pretensão de deixar o banco,
+máximo a classificação de Falsos Negativos, ou seja, é preferível que um cliente que não tenha a pretensão de deixar o banco,
 seja classificado como 'churn', do que um cliente iminente a deixar o banco seja classificado como 'não churn'.
